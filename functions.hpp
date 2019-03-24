@@ -98,7 +98,7 @@ void ShowStudent(char path[60])
 }
 
 
-
+ 
 void DeleteAll(char path[60])
 {
     file = fopen(path, "wb");
