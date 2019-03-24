@@ -7,3 +7,4 @@ The program uses a student structure (ID, first name, second name, score) and sa
 (i know it's a txt file i'm sorry i just wanted to see what happens there)
 
 That's all.
+
