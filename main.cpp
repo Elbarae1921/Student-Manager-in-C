@@ -1,7 +1,6 @@
 #include "functions.hpp"
 
 
-
 #define FILE_PATH "data\\data.txt"
 #define TEMP_FILE_PATH "data\\tempdata.txt" 
 
